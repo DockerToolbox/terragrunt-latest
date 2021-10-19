@@ -5,9 +5,13 @@ All notable changes to this project will be documented in this file.
 
 This changelog was automatically generated using [Caretaker](https://github.com/DevelopersToolbox/caretaker) by [Wolf Software](https://github.com/WolfSoftware)
 
-### [Unreleased](https://github.com/DockerToolbox/terragrunt-latest/commits/master)
+### [v0.1.0](https://github.com/DockerToolbox/terragrunt-latest/releases/v0.1.0)
 
-- update [`[head]`](https://github.com/DockerToolbox/terragrunt-latest/commit/)
+> Released on October, 19th 2021
+
+- Updates [`[head]`](https://github.com/DockerToolbox/terragrunt-latest/commit/)
+
+- update [`[e3dabd0]`](https://github.com/DockerToolbox/terragrunt-latest/commit/e3dabd0a7db5a7f5165f584c9cdce237918be5b4)
 
 - update [`[151ff73]`](https://github.com/DockerToolbox/terragrunt-latest/commit/151ff73f9813835160d31286abcdb40675ce8ae5)
 
