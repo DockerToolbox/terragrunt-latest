@@ -39,8 +39,8 @@ We use our [tgenv](https://github.com/DockerToolbox/tgenv) containers as the bas
 
 ## Supported Operating Systems
 
-| Operating System             | Docker Hub Repo                                                                                          | Docker Hub Tags             |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------- | --------------------------- |
+| Operating System             | Docker Hub Repo                                                                                                         | Docker Hub Tags             |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | Alpine Linux 3.11            | [wolfsoftwareltd/terragrunt-latest-alpine](https://hub.docker.com/r/wolfsoftwareltd/terragrunt-latest-alpine)           | 3.11                        |
 | Alpine Linux 3.12            | [wolfsoftwareltd/terragrunt-latest-alpine](https://hub.docker.com/r/wolfsoftwareltd/terragrunt-latest-alpine)           | 3.12                        |
 | Alpine Linux 3.13            | [wolfsoftwareltd/terragrunt-latest-alpine](https://hub.docker.com/r/wolfsoftwareltd/terragrunt-latest-alpine)           | 3.13                        |
