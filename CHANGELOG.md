@@ -9,5 +9,7 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 - update [`[head]`](https://github.com/DockerToolbox/terragrunt-latest/commit/)
 
+- update [`[151ff73]`](https://github.com/DockerToolbox/terragrunt-latest/commit/151ff73f9813835160d31286abcdb40675ce8ae5)
+
 - Initial commit [`[092f91c]`](https://github.com/DockerToolbox/terragrunt-latest/commit/092f91cbba39d85faa9523b720256bd92e7b5849)
 
