@@ -7,5 +7,7 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/DockerToolbox/terragrunt-latest/commits/master)
 
-- Initial commit [`[head]`](https://github.com/DockerToolbox/terragrunt-latest/commit/)
+- update [`[head]`](https://github.com/DockerToolbox/terragrunt-latest/commit/)
+
+- Initial commit [`[092f91c]`](https://github.com/DockerToolbox/terragrunt-latest/commit/092f91cbba39d85faa9523b720256bd92e7b5849)
 
