@@ -7,7 +7,9 @@ This changelog was automatically generated using [Caretaker](https://github.com/
 
 ### [Unreleased](https://github.com/DockerToolbox/terragrunt-latest/compare/v0.1.0...HEAD)
 
-- update [`[head]`](https://github.com/DockerToolbox/terragrunt-latest/commit/)
+- udpate [`[head]`](https://github.com/DockerToolbox/terragrunt-latest/commit/)
+
+- update [`[d071ba8]`](https://github.com/DockerToolbox/terragrunt-latest/commit/d071ba8932ce229da7950f99ef07ce6322943b83)
 
 - update [`[f464d66]`](https://github.com/DockerToolbox/terragrunt-latest/commit/f464d6638ae816a738b385660dbfa7936adcff11)
 

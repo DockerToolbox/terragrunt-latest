@@ -33,7 +33,7 @@
 
 ## Overview
 
-This is a selection of Docker containers preinstalled with the `latest` version of [Terragrunt](https://terragrunt.gruntwork.io/).
+This is a selection of Docker containers preinstalled with the `latest stable` version of [Terragrunt](https://terragrunt.gruntwork.io/).
 
 We use our [tgenv](https://github.com/DockerToolbox/tgenv) containers as the base to keep the install simple and consistent.
 
